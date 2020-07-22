@@ -1,0 +1,41 @@
+.container {
+  background-color: lightgrey;
+  font-family: 'Ranchers', cursive;}
+header {
+  padding: 2rem;
+}
+
+#title {
+  color: black;
+  text-align: center;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+#left-heading {
+  background-color: red;
+  color: black;
+  text-align: center;
+  font-size: 1em;
+}
+
+.eat-burger {
+  float: right;
+}
+
+#right-heading {
+  background-color: green;
+  color: black;
+  text-align: center;
+  font-size: 1em;
+}
+
+.burger-form {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+footer {
+  padding: 2rem;
+}
